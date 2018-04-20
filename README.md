@@ -1,6 +1,5 @@
 # CSE3.CF SITE 
-
-One Paragraph of project description goes here
+![screenshot of cse3.cf](cse-ss-1.png)  
 
 ## Getting Started
 
