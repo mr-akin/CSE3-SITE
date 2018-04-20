@@ -1,0 +1,31 @@
+SEM1
+maths 1	-
+physics	-
+history -
+mechanics -
+mechanical -
+english	-
+evs	-
+c prog. -
+law	-
+bs	-
+
+SEM2
+chem	-
+eg
+socio
+bio
+eco
+electrical
+
+SEM3
+
+electronics	-
+ds	-
+dbms	-
+english	-
+material sc.	-
+maths numerical mthd	-
+c++ 	-
+oops
+bs
